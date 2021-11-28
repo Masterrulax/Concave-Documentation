@@ -3,8 +3,10 @@ This tiny space of the internet will be used to document everything about Concav
 
 Role Information
 
+
 Miner = We are all miners, welcome anon you are a miner too!
 Foreman = Give the server a boost!
+
 Surveyor = Memes, do them, create them, be original
 Hentai = Go to #culture-request to get this role, be more degen.
 Explorer = Visit all channels, interact, explore!
