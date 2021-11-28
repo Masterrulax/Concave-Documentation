@@ -13,3 +13,4 @@ Genesis = In #research-center add an original theory or idea of what concave cou
 Spelunker = Help out some explorers and Miners in their way!
 [Redacted] = Memes being Decentralized
 Documentor = Snapshot history make it timeless, document information!
+
